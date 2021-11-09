@@ -7,10 +7,6 @@
 
 Download the Github Repository.
 
-```
-gh repo clone yanbingtao/cs3219-otot-task-a
-```
-
 Build image.
 
 ```
