@@ -1,7 +1,7 @@
 # cs3219-otot-task-a
 ## Github Link:
 
-[GitHub Link](https://github.com/yanbingtao/cs3219-otot-task-a)
+[GitHub Link](https://github.com/yanbingtao/CS3203-otot-taskA1)
 
 ### How to run?
 
